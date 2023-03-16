@@ -7,6 +7,11 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+
+  "engines": {
+    "node": ">=19.0.0"
+  },
+
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
